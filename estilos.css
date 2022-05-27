@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 10px;
+}
+
+body{
+    background: rgb(234, 174, 226);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#container{
+    width: 70%;
+    margin: 0% auto;
+    border: 1px solid black;
+}
+
+header{
+    background: white;
+    height: 50px;
+    width: 98%;
+    
+}
